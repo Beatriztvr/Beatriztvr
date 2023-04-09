@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css?family=Suwannaphum:width@300;400;500;600;700;800;900&display=swap');
+
+*{
+    font-family: 'Suwannaphum', sans-serif;
+}
+
+body {
+    background: #122c91;
+}
+
+.header{
+    background: #122c91;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.title{
+    font-size: 2rem;
+    color: #fefcbf;
+    text-align: center;
+}
+
+.navbar{
+    
+}
+
+.navbar a {
+    font-size: 1rem;
+    text-decoration: none;
+    color: #fefcbf;
+}
